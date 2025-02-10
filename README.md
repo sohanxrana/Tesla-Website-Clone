@@ -2,8 +2,6 @@
 
 Welcome to the **Tesla Website Clone**! This is a responsive and visually stunning replica of the official Tesla website, built using modern web technologies. ⚡
 
-![Tesla Clone Preview](https://tesla-clone-bysra.netlify.app/)  
-
 ## 🎯 Features
 ✅ **Fully Responsive** - Works on all devices 📱💻  
 ✅ **Sleek UI** - Inspired by Tesla's official website ✨  
